@@ -39,19 +39,6 @@ I'm a curious and creative developer who loves turning ideas into reality. My jo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javeria-nigar&show_icons=true&theme=radical" alt="Javeria's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=javeria-nigar&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javeria-nigar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
