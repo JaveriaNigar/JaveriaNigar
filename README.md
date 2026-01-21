@@ -30,7 +30,7 @@ I'm a curious and creative developer who loves turning ideas into reality. My jo
 
 ### AI & Automation
 - OpenAI SDK, AI Agents
-- LangChain, Prompt Engineering
+- Prompt Engineering
 
 ### Tools & Design
 - Figma, UI/UX Design
@@ -70,7 +70,7 @@ I'm a curious and creative developer who loves turning ideas into reality. My jo
 
 <div align="center">
   
-  ### Made  ❤️ by Javeria Nigar
+  ### Made by ❤️ Javeria Nigar
   
   *"Code is poetry, and debugging is the art of revision."*
   
